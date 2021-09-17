@@ -13,7 +13,7 @@
 
 ## Live Link Demo
 
-[Nusrat Translate ]()
+[Nusrat Translate ](https://bdbechakena.com/)
 
 ## Project videos
 
