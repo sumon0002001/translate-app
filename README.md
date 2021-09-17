@@ -1,4 +1,4 @@
-<h3 align="center">Catalogue of Recipes</h3>
+<h3 align="center">Nusrat Translate App</h3>
 
 <div align="center">
 
@@ -7,13 +7,13 @@
 [![GitHub2 Pull Requests](https://img.shields.io/badge/GitHub-Pull%20Requests-blue)](https://github.com/sumon0002001/catalogue-recipe/pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 </div>
-<p align="center">Catalogue of Recipes  app in React is a practice project, which includes manipulating dynamically the Virtual DOM and, use States and Props (useState Hook) and useEffect Hook to change the information accordingly with the user interactions. All photos are retrieved from Unsplash API and the information kept on a Redux store available on all application components. In order to test the React Components, I use React Testing Library. Built with React, JavaScript, HTML5, CSS3, Bootstrap, Redux and Prop-types.</p>
+<p align="center">This is an app to translate any documents in 17 languages..</p>
 
 ## App Screenshot
 
 ## Live Link Demo
 
-[Catalogue of Recipes]()
+[Nusrat Translate ]()
 
 ## Project videos
 
@@ -26,8 +26,7 @@
 - Bootstrap
 - JavaScript
 - React Testing Library
-- Redux
-- Redux thunk
+
 
 
 ## Getting Started
@@ -47,7 +46,7 @@ To get a local copy up and running follow these simple example steps.
 - Use `cd <file-path>`
 - Run `git clone https://github.com/sumon0002001/catalogue-recipe/`
 - Enter the project's folder `cd catalogue-recipe`
-- This projects uses the https://www.themealdb.com/ API to get photos. 
+- This projects uses the https://libretranslate.de/docs/#/translate/post_translate API to get translate. 
   
 
 To make any change,
